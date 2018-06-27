@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Growth">
+    <test name="GrowthTest" preserve-order="true">
+        <classes>
+            <class name="TestCase.ApicallbackTest"></class>
+            <class name="TestCase.CreateorderTest"></class>  
+            <class name="TestCase.TransferdiamondTest"></class>  
+        </classes>
+    </test>
+</suite>
